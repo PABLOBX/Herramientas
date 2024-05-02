@@ -1,0 +1,5 @@
+def division():
+    numero1 = int(input("Introduzca su numero"))
+    numero2 = int(input("Introduzca su numero"))
+    division_final = numero1/numero2
+    return division_final
